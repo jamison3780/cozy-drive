@@ -4266,7 +4266,7 @@ cozy-realtime@1.2.1:
   resolved "https://registry.yarnpkg.com/cozy-realtime/-/cozy-realtime-1.2.1.tgz#767a6279895960f51d422be043fb001316abe290"
   integrity sha512-ed4fYohePy/0kgfylgfIQ2wRlOCSzG8jXRpOi1gjPXWJY/NYCvGMibd2GMW7XrcGy13Wd5eFQD55RhozKy1mqw==
 
-cozy-scripts@^1.11.0:
+cozy-scripts@1.11.0:
   version "1.11.0"
   resolved "https://registry.yarnpkg.com/cozy-scripts/-/cozy-scripts-1.11.0.tgz#643716b50ae7a4b2587a495626db74dd2d793e64"
   integrity sha512-/24NL2vqL/fXbuevf5hUHXAmXpg8g6Rljx0I0grjqAmogX+d3TugKVKm18LJB7VzMMjmA601Cqj39EAu4VUJmg==
@@ -4326,10 +4326,10 @@ cozy-stack-client@^5.2.1:
   dependencies:
     mime-types "2.1.20"
 
-cozy-ui@17.9.0:
-  version "17.9.0"
-  resolved "https://registry.yarnpkg.com/cozy-ui/-/cozy-ui-17.9.0.tgz#8d93c2f10a950a02881c83e3af4f76d8c4b89d6c"
-  integrity sha512-RMYur4waIK4tkbHZSkXf0yEKD2pUg5fhV9HXj0eyYNotMTEzIzHu1qNrLeeBJaKOwTaF7UmizaQ/RMJjg5q/MQ==
+cozy-ui@17.17.2:
+  version "17.17.2"
+  resolved "https://registry.yarnpkg.com/cozy-ui/-/cozy-ui-17.17.2.tgz#f57a7fd4ce3d413a71fd77654488156ba9a9daab"
+  integrity sha512-oyrKYb5vMKboFYHgtHpBF3DLu0lb3jooY3LGyWicsotv7oed5ayWPbO7zxHq2meeC397emctz6Y2rHanY9bJXQ==
   dependencies:
     body-scroll-lock "^2.5.8"
     classnames "^2.2.5"
