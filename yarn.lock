@@ -3584,7 +3584,7 @@ cli-width@^2.0.0:
   resolved "https://registry.yarnpkg.com/cli-width/-/cli-width-2.2.0.tgz#ff19ede8a9a5e579324147b0c11f0fbcbabed639"
   integrity sha1-/xnt6Kml5XkyQUewwR8PvLq+1jk=
 
-clipboard-copy@^2.0.1:
+clipboard-copy@2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/clipboard-copy/-/clipboard-copy-2.0.1.tgz#25214db3aabc282109cfa3429ffd885b014fc8b3"
   integrity sha512-/JBr7ryeWwl2w33SRMYGfOZU5SWPVNtpB9oTxUzFp7olKKd2HM+cnhSMeETblJMnjgqtL581ncI/pcZX7o7Big==
@@ -4232,7 +4232,7 @@ cozy-device-helper@1.6.3:
   dependencies:
     lodash "4.17.11"
 
-cozy-flags@^1.5.1:
+cozy-flags@1.5.1:
   version "1.5.1"
   resolved "https://registry.yarnpkg.com/cozy-flags/-/cozy-flags-1.5.1.tgz#e80f6e06bbcb787823beb141975106c3a6d5c3a2"
   integrity sha512-tTl60N1WkrlEikcmoJLLznbiJ8PrdeJINg91CVPZjY2PTlJHEFqigunrgnvKRFE8w+RshEzQcsR3PTVHcwdgSg==
@@ -14737,7 +14737,7 @@ testcafe-reporter-xunit@^2.1.0:
   resolved "https://registry.yarnpkg.com/testcafe-reporter-xunit/-/testcafe-reporter-xunit-2.1.0.tgz#e6d66c572ce15af266706af0fd610b2a841dd443"
   integrity sha1-5tZsVyzhWvJmcGrw/WELKoQd1EM=
 
-testcafe@^0.23.3:
+testcafe@0.23.3:
   version "0.23.3"
   resolved "https://registry.yarnpkg.com/testcafe/-/testcafe-0.23.3.tgz#8f9c6511b43ac99593d532bb08ae06c55ff72b5c"
   integrity sha512-/ykDZ/Pvbb9oCK5kI/47DNm9nKYr8d7eY6U4nm7or5ETREkL9yEQwEzzyb2pC3Nt7iYzK+ZyPAcPWN4QFGiOXA==
